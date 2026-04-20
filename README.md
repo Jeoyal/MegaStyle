@@ -7,7 +7,7 @@
 
 **MegaStyle** is a novel and scalable data curation pipeline that first explores consistent T2I style mapping ability from current large generative models to construct intra-style consistent, inter-style diverse and high-quality style dataset.
 
-**Your star is our fuel!  We're revving up the engines with it!**
+**Your star is our fuel!  We're revving up the engines with it!** Check the our [project page](https://jeoyal.github.io/MegaStyle/) for more visual results!
 
 <img src="assets/teaser.png">
 
@@ -17,7 +17,7 @@
 ## TODO List
 - [ ] A more diverse and larger-scale style dataset.
 
-## MegaStyle1.4M
+## MegaStyle-1.4M
 [MegaStyle-1.4M](https://huggingface.co/datasets/tencent/MegaStyle-1.4M) is a large-scale style dataset built through a scalable pipeline that leverages consistent text-to-image style mapping of Qwen-Image. It combines 170K curated style prompts with 400K content prompts to generate 1.4M high-quality images that share strong intra-style consistency while covering diverse fine-grained styles.
 <img src="assets/megastyle1.4M.jpeg">
 
