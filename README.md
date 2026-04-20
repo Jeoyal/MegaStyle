@@ -61,7 +61,7 @@ bash FLUX.1-dev.sh # FLUX.1-dev-npu.sh for npu
 ```
 
 ## License and Citation
-All assets and code are under the [license](./LICENSE) unless specified otherwise.
+All assets and code are under the [license](./LICENSE.txt) unless specified otherwise.
 
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 ```
